@@ -3,7 +3,7 @@ place_list = [
 (33.746855, -84.387692, "Atlanta, GA"),
 (30.238233, -97.753415, "Austin, TX"),
 (37.774785, -122.419238, "San Francisco, CA"),
-(34.161818, -106.245270, "")]
+(34.161818, -106.245270, "New Mexico")]
 
 def get_weather_data(locations):
     weather_data_save_packet = {}
